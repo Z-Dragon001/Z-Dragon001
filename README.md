@@ -1,8 +1,9 @@
-# 你好，我是 DRAGON 👋
+# Hi, I'm DRAGON 👋
 
-**华中科技大学硕士研究生** · 本科：西南大学。
+**Master's student at Huazhong University of Science and Technology (HUST)**  
+**Undergraduate studies:** Southwest University
 
-关注 **大模型长期记忆、模型路由与 Agent 的训练和应用**，用 Python 将研究思路实现为可运行的系统。
+I work on **long-term memory for LLMs, model routing, and Agent training and applications**, turning research ideas into working Python systems.
 
 ## 代表项目
 
